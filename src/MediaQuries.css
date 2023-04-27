@@ -1,0 +1,131 @@
+@media only screen and (max-width: 850px) {
+    .flexbox {
+        width: 100%;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .work_border {
+        width: 80%;
+        height: 60vh;
+        margin: 30px auto;
+        margin: 50px auto;
+        padding: 50px auto;
+    }
+    .work_row{
+        margin: 0px 0px;
+        padding: 50px 10px;
+    }
+    .col_2{
+        margin: 15px auto;
+    }
+    .about_container {
+        /* margin-top: 450px; */
+        padding: 40px 0px;
+        font-family: Poppins;
+    }
+    .header_right {
+        justify-content: center;
+        margin: 0px auto;
+    }
+    .about_right{
+        width: 80%;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .about_right p{
+        width: 80%;
+        margin: 10px auto;
+    }
+    .contact_container {
+        padding: 20px 0px;
+        margin: 30px auto;
+        text-align: center;
+    }
+    .contact_para {
+        width: 80%;
+        margin: 10px auto;
+    }
+    
+
+}
+
+/* ===================================================== */
+@media only screen and (max-width: 500px) {
+    header{
+        height: 90vh;
+    }
+    .flexbox {
+        padding-top: 50px;
+        width: 100%;
+        height: 85vh;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nav-item{
+        margin: 12px 0px;
+        font-size: 17px;
+    }
+
+    .header_left {
+        width: 100%;
+    }
+
+    .header_left p {
+        width: 90%;
+    }
+
+    .news_letter {
+        width: 100%;
+    }
+
+    .news_letter input {
+        width: 68%;
+        margin-bottom: 0px;
+    }
+
+    .work_border {
+        width: 90%;
+    }
+
+    .row_box {
+        margin: 20px 0px;
+    }
+
+    .about_container {
+        margin-top: 220px;
+    }
+
+    .about_left img {
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    .about_right {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    .about_right p {
+        width: 90%;
+    }
+
+    .contact_container {
+        padding: 20px 0px;
+        margin: 30px auto;
+        text-align: center;
+    }
+
+    .contact_para {
+        width: 90%;
+        margin: 10px auto;
+    }
+    .box1{
+        width: 100%;
+        margin: 10px auto;
+    }
+
+
+}
