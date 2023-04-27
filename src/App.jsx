@@ -9,6 +9,7 @@ import {Route, Routes } from 'react-router-dom';
 const App = () => {
   return (
     <>
+//     React Router
    <Routes>
     <Route exact path="/" element={<Home/>} />
     <Route exact path="/about" element={<AboutUs/>} />
